@@ -173,17 +173,23 @@ Compile all internship work into a professional portfolio demonstrating end-to-e
 ```text
 ApexPlanet-Data-Analytics-Internship
 │
-├── Task1_Data_Cleaning.ipynb
-├── cleaned_sales_dataset.csv
-├── data_dictionary.xlsx
 ├── README.md
 │
-├── Task-2 (Coming Soon)
-├── Task-3 (Coming Soon)
-├── Task-4 (Coming Soon)
-└── Task-5 (Coming Soon)
+├── Task 1 - ✅ Data Immersion & Wrangling
+│   ├── Task1_Data_Cleaning.ipynb
+│   ├── cleaned_sales_dataset.csv
+│   └── data_dictionary.xlsx
+│
+├── Task 2 -  ✅Exploratory Data Analysis & Business Intelligence
+│   ├── Task2_EDA_Business_Intelligence.ipynb
+│   └── business_summary.csv
+│
+├── Task 3 - Deep-Dive Analysis & Interactive Dashboarding  ⏳(Coming Soon)
+│
+├── Task 4 - Data Storytelling & Statistical Validation  ⏳(Coming Soon)
+│
+└── Task 5 - Capstone Integration & Portfolio Finalization  ⏳(Coming Soon)
 ```
-
 ---
 
 # 👩‍💻 Author
