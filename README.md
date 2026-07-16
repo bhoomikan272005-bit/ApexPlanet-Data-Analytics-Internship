@@ -1,6 +1,6 @@
 # ApexPlanet Data Analytics Internship
 
-## 📊 Internship Overview
+##  Internship Overview
 
 This repository contains all projects, reports, dashboards, presentations, and deliverables completed during the **ApexPlanet Data Analytics Internship Program (60 Days)**.
 
@@ -17,7 +17,7 @@ The internship focuses on developing practical skills in:
 
 ---
 
-# 🚀 Task 1: Data Immersion & Wrangling
+#  Task 1: Data Immersion & Wrangling
 
 ## Objective
 Acquire, clean, transform, and prepare raw data for analysis.
@@ -46,7 +46,7 @@ Acquire, clean, transform, and prepare raw data for analysis.
 
 ---
 
-# 📈 Task 2: Exploratory Data Analysis (EDA) & Business Intelligence
+#  Task 2: Exploratory Data Analysis (EDA) & Business Intelligence
 
 ## Objective
 Discover patterns, trends, and insights from the dataset through statistical analysis and visualization.
@@ -74,7 +74,7 @@ Discover patterns, trends, and insights from the dataset through statistical ana
 
 ---
 
-# 📊 Task 3: Deep-Dive Analysis & Interactive Dashboarding
+#  Task 3: Deep-Dive Analysis & Interactive Dashboarding
 
 ## Objective
 Perform advanced analytical investigation and develop an interactive dashboard for decision-making.
@@ -103,7 +103,7 @@ Perform advanced analytical investigation and develop an interactive dashboard f
 
 ---
 
-# 📖 Task 4: Data Storytelling & Statistical Validation
+#  Task 4: Data Storytelling & Statistical Validation
 
 ## Objective
 Transform analytical findings into meaningful business stories supported by statistical evidence.
@@ -127,7 +127,7 @@ Transform analytical findings into meaningful business stories supported by stat
 
 ---
 
-# 🎯 Task 5: Capstone Integration & Portfolio Finalization
+#  Task 5: Capstone Integration & Portfolio Finalization
 
 ## Objective
 Compile all internship work into a professional portfolio demonstrating end-to-end analytics capabilities.
@@ -152,7 +152,7 @@ Compile all internship work into a professional portfolio demonstrating end-to-e
 
 ---
 
-# 🛠️ Technologies & Tools
+#  Technologies & Tools
 
 - Python
 - Pandas
@@ -184,15 +184,17 @@ ApexPlanet-Data-Analytics-Internship
 │   ├── Task2_EDA_Business_Intelligence.ipynb
 │   └── business_summary.csv
 │
-├── Task 3 - Deep-Dive Analysis & Interactive Dashboarding  ⏳(Coming Soon)
-│
+├── Task 3 - ✅Deep-Dive Analysis & Interactive Dashboarding  
+│   ├── Task3_PowerBI_Dashboard.pbix
+│   └── Sales Analytics Dashboard ApexPlanet Data Analytics
+|
 ├── Task 4 - Data Storytelling & Statistical Validation  ⏳(Coming Soon)
 │
 └── Task 5 - Capstone Integration & Portfolio Finalization  ⏳(Coming Soon)
 ```
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Bhoomika N**
 
@@ -204,7 +206,7 @@ GitHub: https://github.com/bhoomikan272005-bit
 
 ---
 
-# 🏆 Internship Details
+#  Internship Details
 
 **Organization:** ApexPlanet Software Pvt. Ltd.
 
