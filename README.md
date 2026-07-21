@@ -189,7 +189,8 @@ ApexPlanet-Data-Analytics-Internship
 │   └── Sales Analytics Dashboard ApexPlanet Data Analytics
 |
 ├── Task 4 - Data Storytelling & Statistical Validation  ⏳(Coming Soon)
-│
+│   ├── Task_4_Data_Storytelling_&_Statistical_Validation.ipynb
+├   └── Task-4-Data-Storytelling-and-Statistical-Validation.pptx
 └── Task 5 - Capstone Integration & Portfolio Finalization  ⏳(Coming Soon)
 ```
 ---
